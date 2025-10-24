@@ -4,7 +4,7 @@ I’m a passionate software developer dedicated to building efficient, user-focu
 ---
 
 ### 🧰 Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://gifdb.com/images/high/python-programming-language-logo-qub1edyv8mfseof5.gif))
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
