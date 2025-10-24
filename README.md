@@ -11,7 +11,7 @@
 ### 🧰 Languages and Tools
 <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" width="100px" alt="gif">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="125px" length="50px" alt="gif" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="125px" length="1000px" alt="gif" >
 
 <img src="https://benwilliams-dev.com/cpp.gif" width="150px" alt="gif">
 
