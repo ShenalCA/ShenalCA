@@ -9,27 +9,24 @@
 ---
 
 ### 🧰 Languages and Tools
+<p align="left">
 <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" width="100px" alt="gif">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="125px" length="100px" alt="gif" >
 
 <img src="https://benwilliams-dev.com/cpp.gif" width="150px" alt="gif">
 
-<img src="https://benwilliams-dev.com/cpp.gif" width="100px" alt="gif">
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/java-7145886-5806394.gif" width="100px" alt="gif">
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/js_logoanimado_small.gif" width="100px" alt="gif">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/css1html+copy.gif" width="100px" alt="gif">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" width="100px" alt="gif">
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://eradani.com/wp-content/uploads/2024/11/Visual-Studio-code-logo-1.png" width="100PX" alt="gif">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</p>
 
 
 ---
