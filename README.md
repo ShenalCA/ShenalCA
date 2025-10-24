@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shenal W.
+#  My name is Shenal,
 
 I’m a passionate software developer dedicated to building efficient, user-focused applications. I enjoy working across multiple technologies — from front-end interfaces to back-end logic and database design. 
 
