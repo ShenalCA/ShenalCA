@@ -8,21 +8,20 @@
 
 ---
 
-### 🧰 Languages and Tools
-<p align="left">
-<img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" width="100px" alt="gif">
+### 🧰 Languages
+<p>
+<img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" width="100px" height="100px" alt="gif">
 
-<img src="https://benwilliams-dev.com/cpp.gif" width="150px" alt="gif">
+<img src="https://avatars.githubusercontent.com/u/121813859?s=200&v=4" width="100px" height="100px" length="100px" alt="gif">
 
-<img src="https://cdnl.iconscout.com/lottie/premium/thumb/java-7145886-5806394.gif" width="100px" alt="gif">
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/java-7145886-5806394.gif" width="125px" height="200px" alt="gif">
 
-<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/js_logoanimado_small.gif" width="100px" alt="gif">
+<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/js_logoanimado_small.gif" width="110px" length="50px" alt="gif">
 
-<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/css1html+copy.gif" width="100px" alt="gif">
+<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/css1html+copy.gif" width="175px" length="250px" alt="gif">
 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" width="100px" alt="gif">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" width="150px" alt="gif">
 
-<img src="https://eradani.com/wp-content/uploads/2024/11/Visual-Studio-code-logo-1.png" width="100PX" alt="gif">
 
 
 
