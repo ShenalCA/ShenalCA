@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shenal W.
 
 I’m a passionate software developer dedicated to building efficient, user-focused applications. I enjoy working across multiple technologies — from front-end interfaces to back-end logic and database design. 
+![programming](https://github.com/user-attachments/assets/0e3c27c1-aa68-4853-8aba-bf4b369222e8)
 
 ---
 
@@ -26,7 +27,7 @@ I’m a passionate software developer dedicated to building efficient, user-focu
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![programming](https://github.com/user-attachments/assets/0e3c27c1-aa68-4853-8aba-bf4b369222e8)
+
 
 ---
 
