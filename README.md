@@ -1,4 +1,4 @@
-#  My name is Shenal,
+#  𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚂𝚑𝚎𝚗𝚊𝚕,
 
 I’m a passionate software developer dedicated to building efficient, user-focused applications. I enjoy working across multiple technologies — from front-end interfaces to back-end logic and database design. 
 
