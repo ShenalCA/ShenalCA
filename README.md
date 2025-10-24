@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shenal W.
 
-I’m a passionate software developer dedicated to building efficient, user-focused applications. I enjoy working across multiple technologies — from front-end interfaces to back-end logic and database design. My projects often combine creativity with clean, maintainable code and real-world problem solving.
-
+I’m a passionate software developer dedicated to building efficient, user-focused applications. I enjoy working across multiple technologies — from front-end interfaces to back-end logic and database design. 
 ---
 
 ### 🧰 Languages and Tools
