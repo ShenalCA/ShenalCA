@@ -13,9 +13,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="125px" alt="gif" >
 
-<img src="https://benwilliams-dev.com/cpp.gif" width="100px" alt="gif">
+<img src="https://benwilliams-dev.com/cpp.gif" width="150px" alt="gif">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://benwilliams-dev.com/cpp.gif" width="100px" alt="gif">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
