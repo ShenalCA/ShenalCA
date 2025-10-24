@@ -20,12 +20,6 @@ I’m a passionate software developer dedicated to building efficient, user-focu
 
 ---
 
-### 📊 GitHub Stats
-![Shenal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shenal430&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shenal430&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shenal-warnapurage-b040162a1)
 [![Email](https://img.shields.io/badge/Email-shenal430@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenal430@gmail.com)
