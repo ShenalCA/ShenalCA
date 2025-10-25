@@ -37,8 +37,8 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shenal-warnapurage-b040162a1)
 
-<a href="Shenal430@gmail.com">
-<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="HTML tutorial" style="width:42px;height:42px;">
+<a href="mailto:shenal430@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" />
 </a>
 ---
 
