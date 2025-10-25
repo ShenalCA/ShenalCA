@@ -28,19 +28,27 @@
 
 </p>
 
-</body>
-</html>
+
 
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shenal-warnapurage-b040162a1)
+<a href="https://www.linkedin.com/in/shenal-warnapurage-b040162a1" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+</a>
+
+<br>
 
 <a href="mailto:shenal430@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50px" />
 </a>
----
 
-⭐ *Thanks for visiting my profile!*
+<br>
+
+<h2 align="center">𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦. 𝘍𝘦𝘦𝘭 𝘧𝘳𝘦𝘦 𝘵𝘰 𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘮𝘦!</h2>
+
+
+
+
 
