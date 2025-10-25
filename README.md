@@ -1,6 +1,9 @@
-#  HEY
+<h1>𝖦𝗋𝖾𝖾𝗍𝗂𝗇𝗀𝗌 𝖺𝗇𝖽 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝗉𝗋𝗈𝖿𝗂𝗅𝖾</h1>
 
-𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙎𝙝𝙚𝙣𝙖𝙡 𝙒𝙖𝙧𝙣𝙖𝙥𝙪𝙧𝙖𝙜𝙚. 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙖𝙩 𝙎𝙩 𝙇𝙖𝙬𝙧𝙚𝙣𝙘𝙚 𝘾𝙤𝙡𝙡𝙚𝙜𝙚. 𝙄 𝙖𝙢 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙣𝙙 𝙙𝙚𝙩𝙖𝙞𝙡 𝙤𝙧𝙞𝙚𝙣𝙩𝙖𝙩𝙚𝙙 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙛𝙤𝙪𝙣𝙙𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙖𝙣𝙙 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩, 𝙤𝙗𝙟𝙚𝙘𝙩-𝙤𝙧𝙞𝙚𝙣𝙩𝙚𝙙 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜, 𝙖𝙣𝙙 𝙙𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙢𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩. 𝙄 𝙖𝙡𝙬𝙖𝙮𝙨 𝙩𝙧𝙮 𝙩𝙤 𝙢𝙮 𝙗𝙚𝙨𝙩 𝙩𝙤 𝙜𝙚𝙩 𝙩𝙝𝙚 𝙥𝙤𝙨𝙨𝙞𝙗𝙡𝙚 𝙤𝙪𝙩𝙘𝙤𝙢𝙚𝙨. 
+ <p>
+   𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙎𝙝𝙚𝙣𝙖𝙡 𝙒𝙖𝙧𝙣𝙖𝙥𝙪𝙧𝙖𝙜𝙚. 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙖𝙩 𝙎𝙩 𝙇𝙖𝙬𝙧𝙚𝙣𝙘𝙚 𝘾𝙤𝙡𝙡𝙚𝙜𝙚. 𝙄 𝙖𝙢 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙣𝙙 𝙙𝙚𝙩𝙖𝙞𝙡 𝙤𝙧𝙞𝙚𝙣𝙩𝙖𝙩𝙚𝙙 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙛𝙤𝙪𝙣𝙙𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙖𝙣𝙙 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩, 𝙤𝙗𝙟𝙚𝙘𝙩-𝙤𝙧𝙞𝙚𝙣𝙩𝙚𝙙 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜, 𝙖𝙣𝙙 𝙙𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙢𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩. 𝙄 𝙖𝙡𝙬𝙖𝙮𝙨 𝙩𝙧𝙮 𝙩𝙤 𝙢𝙮 𝙗𝙚𝙨𝙩 𝙩𝙤 𝙜𝙚𝙩 𝙩𝙝𝙚 𝙥𝙤𝙨𝙨𝙞𝙗𝙡𝙚 𝙤𝙪𝙩𝙘𝙤𝙢𝙚𝙨. 
+ </p>
+ 
 <p align= "center">
   <img src="https://github.com/user-attachments/assets/0e3c27c1-aa68-4853-8aba-bf4b369222e8" width="300px" length="200px" height="200px" alt="programming">
 </p>
@@ -23,10 +26,10 @@
 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" width="150px" alt="gif">
 
-
-
-
 </p>
+
+</body>
+</html>
 
 
 ---
@@ -34,8 +37,9 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shenal-warnapurage-b040162a1)
 
-[![Email:](https://img.shields.io/badge/Email-shenal430@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenal430@gmail.com)
-
+<a href="Shenal430@gmail.com">
+<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
 ---
 
 ⭐ *Thanks for visiting my profile!*
